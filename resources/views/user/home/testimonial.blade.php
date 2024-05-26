@@ -15,7 +15,7 @@
               <h4>Anik Ekka</h4>
               <span>CEO of KUET BANK</span>
               <div class="right-image">
-                <img src="user/assets/images/testimonials-01.jpg" alt="">
+                <img src="user/assets/images/anik.jpg" alt="">
               </div>
             </div>
             <div class="item">
@@ -24,7 +24,7 @@
               <h4>Choyan Mitra</h4>
               <span>CTO of KUET BANK</span>
               <div class="right-image">
-                <img src="user/assets/images/testimonials-01.jpg" alt="">
+                <img src="user/assets/images/mypic2.png" alt="">
               </div>
             </div>
             <div class="item">
@@ -33,7 +33,7 @@
               <h4>Mehedi Hasan</h4>
               <span>Crypto Manager</span>
               <div class="right-image">
-                <img src="user/assets/images/testimonials-01.jpg" alt="">
+                <img src="user/assets/images/mypic2.png" alt="">
               </div>
             </div>
           </div>
